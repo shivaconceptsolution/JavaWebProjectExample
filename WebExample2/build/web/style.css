@@ -1,0 +1,22 @@
+
+header,footer
+{
+    height:100px;
+    background-color: black;
+
+}
+header a
+{
+    color:white;
+    margin-left:10px;
+    text-decoration: none;
+}
+section
+{
+    height:500px;
+    background-color: green;
+}
+
+*{
+    margin:0px;
+}
